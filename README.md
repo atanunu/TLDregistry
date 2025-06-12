@@ -1,7 +1,4 @@
-Below is a **drop-in `README.md`** that reflects the codebase **up to Patch v6**.
-Save it at the project root, commit, and push.
-
-```markdown
+```
 # TLD Registry – Core (v6)
 
 A Laravel 11 application that forms the **foundation layer** for a ccTLD / gTLD
@@ -18,7 +15,7 @@ registry. Patch v6 upgrades the original DNS-only skeleton by adding:
 
 ## Folder map (after v6)
 
-```
+````
 
 app/
 ├─ Livewire/
@@ -117,5 +114,3 @@ git add README.md
 git commit -m "docs: update README for v6 core features"
 git push
 ````
-
-Your repository now documents everything present through Patch v6.
